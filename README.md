@@ -12,8 +12,8 @@ Mariana is an aspiring full-stack developer who is currently transitioning from 
 <br/>💡&nbsp;I'm interested about **Series, Climbing, Travel, Ocean, Arts**
 <br/>🤝&nbsp;I like to collaborate in **Open Source Projects**
 <br/>😄&nbsp;Pronouns **She/Her**
+<br/>🌎&nbsp;Half brazilian, half italian, moving around **Europe**
 <br/>⚡&nbsp;Fun fact **I'm a stand up comedian**
-<br/>⚡🌎&nbsp;Half brazilian, half italian, moving around **Europe**
 <br/>📫&nbsp;Reach me [mariana.ballardin@hotmail.com](mailto:mariana.ballardin@hotmail.com)
 
 ## Tech Stack
