@@ -7,14 +7,14 @@ Mariana is an aspiring full-stack developer who is currently transitioning from 
 
 ## About me
 🔭&nbsp;I’m currently studying on **@Rocketseat**
-<br/>🎓&nbsp;Master in **Performing Arts **
+<br/>🎓&nbsp;Master in **Performing Arts**
 <br/>🌱&nbsp;Learning about **Web Development - Full Stack**
 <br/>💡&nbsp;I'm interested about **Series, Climbing, Travel, Ocean, Arts**
 <br/>🤝&nbsp;I like to collaborate in **Open Source Projects**
 <br/>😄&nbsp;Pronouns **She/Her**
 <br/>🌎&nbsp;Half brazilian, half italian, moving around **Europe**
 <br/>⚡&nbsp;Fun fact **I'm a stand up comedian**
-<br/>📫&nbsp;Reach me [mariana.ballardin@hotmail.com](mailto:mariana.ballardin@hotmail.com)
+<br/>📫&nbsp;Reach me: [mariana.ballardin@hotmail.com](mailto:mariana.ballardin@hotmail.com)
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
