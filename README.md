@@ -1,7 +1,7 @@
 ![Untitled (4)](https://user-images.githubusercontent.com/96913788/174265473-b0ac724e-0584-42c6-99f6-99abd4d91d02.png)
 
 ### Welcome! I'm happy to have you here 👋
-# Mariana Ballardin Ferreira
+# Mariana Ferreira
 <a href="https://www.github.com/https://github.com/Mariballardin" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25"></a>&nbsp;
 <a href="https://www.linkedin.com/in/marianaballardinferreira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
 
