@@ -1,6 +1,4 @@
-
-![Untitled (3)](https://user-images.githubusercontent.com/96913788/174264784-3e251e20-20f2-45d5-a218-1911c3fdd7ef.png)
-
+![Untitled (4)](https://user-images.githubusercontent.com/96913788/174265473-b0ac724e-0584-42c6-99f6-99abd4d91d02.png)
 
 ### Welcome! I'm happy to have you here 👋
 # Mariana Ballardin Ferreira
