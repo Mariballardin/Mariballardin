@@ -1,3 +1,7 @@
+
+![Untitled (1)](https://user-images.githubusercontent.com/96913788/174263867-290e4412-eaff-4a52-8354-49f0c27e40ef.png)
+
+
 ### Welcome! I'm happy to have you here 👋
 # Mariana Ballardin Ferreira
 <a href="https://www.github.com/https://github.com/Mariballardin" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25"></a>&nbsp;
