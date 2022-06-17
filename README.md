@@ -12,7 +12,7 @@ I'm a Brazilian/Italian Software Engineer with background in acting.
 🔭&nbsp;I’m currently studying on **@Rocketseat**
 <br/>🎓&nbsp;Master in **Performing Arts**
 <br/>🌱&nbsp;Learning about **Web Development - Full Stack**
-<br/>💡&nbsp;I'm interested about **Series, Climbing, Travel, Ocean, Arts**
+<br/>💡&nbsp;I'm interested about **Dance, Movies, Climbing, Travel, Ocean, Arts**
 <br/>🤝&nbsp;I like to collaborate in **Open Source Projects**
 <br/>😄&nbsp;Pronouns **She/Her**
 <br/>🌎&nbsp;Half brazilian, half italian, moving around **Europe**
