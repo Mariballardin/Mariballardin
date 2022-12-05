@@ -1,4 +1,5 @@
-![Untitled (4)](https://user-images.githubusercontent.com/96913788/174265473-b0ac724e-0584-42c6-99f6-99abd4d91d02.png)
+
+![gjhk](https://user-images.githubusercontent.com/96913788/205637499-82cb8b01-28a9-4608-a8b0-cfd6fd213fe0.jpg)
 
 ### Welcome! I'm happy to have you here 👋
 # Mariana Ferreira
