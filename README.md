@@ -13,7 +13,7 @@ I'm a Brazilian/Italian Software Engineer with background in acting.
 🔭&nbsp;I’m currently studying on **@Lewagon**
 <br/>🎓&nbsp;Master's degree in **Performing Arts**
 <br/>🌱&nbsp;Learning about **Web Development - Full Stack**
-<br/>💡&nbsp;I'm interested about **Education, Sports, Blockchain, Ocean cleaning**
+<br/>💡&nbsp;I'm interested about **Arts && Technology, Cinema, Sports, Travel**
 <br/>🤝&nbsp;I like to collaborate in **Open Source Projects**
 <br/>😄&nbsp;Pronouns **She/Her**
 <br/>🌎&nbsp;Half brazilian, half italian, moving around **Europe**
