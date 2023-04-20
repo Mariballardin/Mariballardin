@@ -10,7 +10,7 @@ I'm a Brazilian/Italian Software Engineer with background in acting.
 
 
 ## About me
-🔭&nbsp;I’m currently studying on **@Rocketseat**
+🔭&nbsp;I’m currently studying on **@Lewagon**
 <br/>🎓&nbsp;Master's degree in **Performing Arts**
 <br/>🌱&nbsp;Learning about **Web Development - Full Stack**
 <br/>💡&nbsp;I'm interested about **Education, Sports, Blockchain, Ocean cleaning**
