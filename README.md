@@ -10,9 +10,9 @@ I'm a Brazilian/Italian Software Engineer with background in acting.
 
 
 ## About me
-🔭&nbsp;I’m currently studying on **@Lewagon**
+🔭&nbsp;I graduated from **@Lewagon** as the #1 Top Performer in my batch 
 <br/>🎓&nbsp;Master's degree in **Performing Arts**
-<br/>🌱&nbsp;Learning about **Web Development - Full Stack**
+<br/>🌱&nbsp;Currently working on [DevWiz](https://www.devwiz.me/) 
 <br/>💡&nbsp;I'm interested about **Arts && Technology, Cinema, Sports, Travel**
 <br/>🤝&nbsp;I like to collaborate in **Open Source Projects**
 <br/>😄&nbsp;Pronouns **She/Her**
