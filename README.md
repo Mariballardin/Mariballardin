@@ -1,5 +1,5 @@
 
-![gjhk](https://user-images.githubusercontent.com/96913788/205637499-82cb8b01-28a9-4608-a8b0-cfd6fd213fe0.jpg)
+![gjhk]https://github.com/Mariballardin/Mariballardin/issues/1#issue-1771210127)
 
 ### Welcome! I'm happy to have you here 👋
 # Mariana Ferreira
