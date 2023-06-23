@@ -1,5 +1,4 @@
-
-![gjhk]https://github.com/Mariballardin/Mariballardin/issues/1#issue-1771210127)
+![Mariana Ballardin (5)](https://github.com/Mariballardin/Mariballardin/assets/96913788/1e3e5530-b11b-44a7-97ee-a8d64aa8b9dd)
 
 ### Welcome! I'm happy to have you here 👋
 # Mariana Ferreira
