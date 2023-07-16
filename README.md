@@ -12,6 +12,7 @@ I'm a Brazilian/Italian Software Engineer with background in acting.
 🔭&nbsp;I graduated from **@Lewagon** as the #1 Top Performer in my batch 
 <br/>🎓&nbsp;Master's degree in **Performing Arts**
 <br/>🌱&nbsp;Currently working on [DevWiz](https://www.devwiz.me/) 
+<br/>🌱&nbsp;Learning Reacte Native
 <br/>💡&nbsp;I'm interested about **Arts && Technology, Cinema, Sports, Travel**
 <br/>🤝&nbsp;I like to collaborate in **Open Source Projects**
 <br/>😄&nbsp;Pronouns **She/Her**
@@ -24,4 +25,4 @@ I'm a Brazilian/Italian Software Engineer with background in acting.
 <img src="https://img.shields.io/badge/Html5-05122A?style=flat&logo=html5" alt="html5 Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=javascript" alt="javascript Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/React-05122A?style=flat&logo=react" alt="react Badge" height="25">&nbsp;
-
+<img src="https://img.shields.io/badge/Ruby-05122A?style=flat&logo=ruby" alt="ruby Badge" height="25">&nbsp;
