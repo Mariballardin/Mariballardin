@@ -12,7 +12,7 @@ I'm a Brazilian/Italian Software Engineer with background in acting.
 🔭&nbsp;I graduated from **@Lewagon** as the #1 Top Performer in my batch 
 <br/>🎓&nbsp;Master's degree in **Performing Arts**
 <br/>🌱&nbsp;Currently working on [DevWiz](https://www.devwiz.me/) 
-<br/>🌱&nbsp;Learning Reacte Native
+<br/>🌱&nbsp;Learning React and React Native
 <br/>💡&nbsp;I'm interested about **Arts && Technology, Cinema, Sports, Travel**
 <br/>🤝&nbsp;I like to collaborate in **Open Source Projects**
 <br/>😄&nbsp;Pronouns **She/Her**
